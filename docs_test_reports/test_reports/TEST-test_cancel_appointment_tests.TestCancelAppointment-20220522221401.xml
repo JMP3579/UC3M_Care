@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_cancel_appointment_tests.TestCancelAppointment-20220522221401" tests="19" file="test_cancel_appointment_tests.py" time="0.378" timestamp="2022-05-22T22:14:02" failures="0" errors="0" skipped="0">
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_not_valid" time="0.272" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_already_vaccinated" time="0.008" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_already_vaccinated_setup" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_ce_final_final" time="0.012" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_ce_temporal_temporal" time="0.007" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_date_1" time="0.004" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_date_2" time="0.004" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_date_3" time="0.003" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_date_setup" time="0.005" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_reason_100" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_reason_2" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_reason_3" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_cv_reason_99" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_final_temporal" time="0.007" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_invalid_date" time="0.003" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_pf_valid_2" time="0.008" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_valid" time="0.007" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_valid2" time="0.006" timestamp="2022-05-22T22:14:02"/>
+	<testcase classname="test_cancel_appointment_tests.TestCancelAppointment" name="test_valid3" time="0.006" timestamp="2022-05-22T22:14:02"/>
+</testsuite>
